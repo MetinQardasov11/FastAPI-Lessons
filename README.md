@@ -19,7 +19,7 @@ The following programs must be installed on your computer:
 First of all, clone the project to your computer using Git:
 
 ```bash
-git clone https://github.com/MetinQardasov11/FastApi-Project.git
+git clone https://github.com/MetinQardasov11/FastAPI-Lessons.git
 ```
 <br>
 

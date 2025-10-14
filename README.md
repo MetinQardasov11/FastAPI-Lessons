@@ -52,5 +52,5 @@ pip install -r requirements.txt
 #### MacOS / Linux / Windows:
 
 ```bash
-uvicorn file_name:app_name --reload
+fastapi dev file_name
 ```
